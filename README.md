@@ -18,14 +18,20 @@
 
 
 <p align="center">
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-iniciar">Iniciar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contatos">Contatos</a>
 </p>
+
+
+## 💻 Projeto
+
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** 19 a 25 de abril de 2021.
+Ele é um organizador para seus podcasts preferidos, os que foram inseridos nele são os melhores para aproximar você ainda mais do que há de melhor em podcasts de tecnologia!💜
 
 ## 🧪 Tecnologias
 
@@ -51,13 +57,6 @@ $ yarn
 # Start the project
 $ yarn dev
 ```
-
-## 💻 Projeto
-
-[Podcastr](https://podcastr-nlw.vercel.app/) para aproximar você ainda mais do que há de melhor em podcasts de tecnologia!💜
-
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** 19 a 25 de abril de 2021.
-
 ## 🔖 Layout
 
 ### Home
@@ -74,7 +73,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 
 
-## 📝 Licença
+## :memo: Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo de[LICENÇA](LICENSE.md) para obter detalhes.
 
